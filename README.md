@@ -4,3 +4,4 @@ add remote repa1 _less_1
 add branch first
 
 вот это поворот
+Создаём ошибку
